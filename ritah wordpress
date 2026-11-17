@@ -1,0 +1,167 @@
+&nbsp;
+
+&nbsp;
+
+<style>
+<p>/* General styling */<br />
+* {<br />
+    box-sizing: border-box;<br />
+}</p>
+<p>body {<br />
+    margin: 0;<br />
+    font-family: Arial, sans-serif;<br />
+    line-height: 1.7;<br />
+}</p>
+<p>/* Header section */<br />
+header {<br />
+    background-color: #ff9999;<br />
+    padding: 25px;<br />
+    text-align: center;<br />
+}</p>
+<p>header h1 {<br />
+    color: gold;<br />
+    font-size: 40px;<br />
+    text-align: center;<br />
+}</p>
+<p>header img {<br />
+    border: 2px solid black;<br />
+    display: block;<br />
+    margin: auto;<br />
+    width: 200px;<br />
+    height: auto;<br />
+}</p>
+<p>header h3 {<br />
+    color: black;<br />
+    text-align: center;<br />
+}</p>
+<p>/* Navigation links */<br />
+nav {<br />
+    margin-top: 20px;<br />
+}</p>
+<p>nav a {<br />
+    display: inline-block;<br />
+    background-color: #cc3333;<br />
+    color: white;<br />
+    padding: 12px 20px;<br />
+    margin: 5px;<br />
+    text-decoration: none;<br />
+    border-radius: 5px;<br />
+    font-weight: bold;<br />
+}</p>
+<p>nav a:hover {<br />
+    background-color: #333333;<br />
+}</p>
+<p>/* Main section */<br />
+main {<br />
+    background-color: #99ccff;<br />
+    padding: 30px;<br />
+}</p>
+<p>main h2 {<br />
+    color: darkblue;<br />
+    font-style: italic;<br />
+    text-transform: capitalize;<br />
+}</p>
+<p>main p {<br />
+    font-size: 17px;<br />
+    text-align: justify;<br />
+}</p>
+<p>.school-image {<br />
+    border: 2px solid black;<br />
+    display: block;<br />
+    margin: 25px auto;<br />
+    width: 80%;<br />
+    max-width: 700px;<br />
+    height: auto;<br />
+}</p>
+<p>/* Footer section */<br />
+footer {<br />
+    background-color: #99ff99;<br />
+    padding: 25px;<br />
+    text-align: left;<br />
+}</p>
+<p>footer h2 {<br />
+    color: darkgreen;<br />
+    font-style: italic;<br />
+}</p>
+<p>footer ul {<br />
+    font-size: 17px;<br />
+    line-height: 2;<br />
+}</p>
+<p>/* Mobile responsive design */<br />
+@media screen and (max-width: 600px) {</p>
+<p>    header h1 {<br />
+        font-size: 28px;<br />
+    }</p>
+<p>    nav a {<br />
+        display: block;<br />
+    }</p>
+<p>    main {<br />
+        padding: 15px;<br />
+    }</p>
+<p>    .school-image {<br />
+        width: 100%;<br />
+    }<br />
+}</p>
+</style>
+
+&nbsp;
+
+&nbsp;
+
+<!-- HEADER SECTION -->
+
+<header>
+<h1>KYOSIGA P/S</h1>
+<img src="LOGO.png" alt="Kyosiga Primary School Badge" />
+<h3><i>Motto: United We Succeed</i></h3>
+<nav><a href="about-us.html">ABOUT US</a><a href="contact-us.html">CONTACT US</a>
+
+<a href="admission.pdf">ADMISSION</a>
+
+</nav></header><!-- MAIN CONTENT SECTION -->
+
+<main></main>
+<h2 style="text-align: center;">School Background</h2>
+<p style="text-align: center;">Kyosiga Primary School is a private Chartered school owned
+by the Registered Trustees of the Group One Association.
+It was founded on 15th August 2004 when the associates
+signed a Memorandum of Understanding with Uganda Martyrs
+Primary to establish Kyosiga P/S.</p>
+<em><strong>MORE INFORMATION</strong></em>
+
+On 27th March 2009, the National Council for Education (NCE)
+granted Kyosiga P/S a constituent primary status and it
+became a nationally recognised primary school.
+
+On 29th June 2015, NCE granted an independent operational
+license to the Primary School under its new name,
+Kyosiga P/S.
+
+Kyosiga is a private Chartered school rooted in the Catholic
+ethos but remains open to all those who qualify for its
+programs. It is located 24 km from Kampala along the
+Kampala-Entebbe Highway.
+
+Blessed with a conducive learning and teaching environment,
+Kyosiga is committed to remaining a hallmark and a niche
+for quality education in Uganda and in the broader
+East African region.
+<h2>Relevant School Image</h2>
+<img class="school-image" src="pic.jpg" alt="Kyosiga Primary School" />
+
+&nbsp;
+
+<!-- FOOTER SECTION -->
+
+<footer>
+<h2>Co-curricular Activities</h2>
+<ul>
+ 	<li>Swimming</li>
+ 	<li>Football</li>
+ 	<li>Netball</li>
+ 	<li>Music, Dance and Drama (MDD)</li>
+</ul>
+© 2026 KYOSIGA PRIMARY SCHOOL.
+All Rights Reserved.
+
+</footer>&nbsp;
